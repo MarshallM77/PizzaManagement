@@ -1,2 +1,2 @@
 # PizzaManagement
- A pizza management system for the customer side, also includes member functionalities.
+A pizza management system for the customer side, also includes member functionalities.
