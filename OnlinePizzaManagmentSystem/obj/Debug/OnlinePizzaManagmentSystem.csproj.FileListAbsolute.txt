@@ -1,0 +1,11 @@
+C:\Users\allar\source\repos\OnlinePizzaManagmentSystem\OnlinePizzaManagmentSystem\obj\Debug\OnlinePizzaManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\allar\source\repos\OnlinePizzaManagmentSystem\OnlinePizzaManagmentSystem\obj\Debug\OnlinePizzaManagmentSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\allar\source\repos\OnlinePizzaManagmentSystem\OnlinePizzaManagmentSystem\obj\Debug\OnlinePizzaManagmentSystem.Form1.resources
+C:\Users\allar\source\repos\OnlinePizzaManagmentSystem\OnlinePizzaManagmentSystem\obj\Debug\OnlinePizzaManagmentSystem.Properties.Resources.resources
+C:\Users\allar\source\repos\OnlinePizzaManagmentSystem\OnlinePizzaManagmentSystem\obj\Debug\OnlinePizzaManagmentSystem.csproj.GenerateResource.cache
+C:\Users\allar\source\repos\OnlinePizzaManagmentSystem\OnlinePizzaManagmentSystem\obj\Debug\OnlinePizzaManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\allar\source\repos\OnlinePizzaManagmentSystem\OnlinePizzaManagmentSystem\bin\Debug\OnlinePizzaManagmentSystem.exe.config
+C:\Users\allar\source\repos\OnlinePizzaManagmentSystem\OnlinePizzaManagmentSystem\bin\Debug\OnlinePizzaManagmentSystem.exe
+C:\Users\allar\source\repos\OnlinePizzaManagmentSystem\OnlinePizzaManagmentSystem\bin\Debug\OnlinePizzaManagmentSystem.pdb
+C:\Users\allar\source\repos\OnlinePizzaManagmentSystem\OnlinePizzaManagmentSystem\obj\Debug\OnlinePizzaManagmentSystem.exe
+C:\Users\allar\source\repos\OnlinePizzaManagmentSystem\OnlinePizzaManagmentSystem\obj\Debug\OnlinePizzaManagmentSystem.pdb
